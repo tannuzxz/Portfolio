@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(86, 86, 225);
+}
+/* for only anchor tag */
+a {
+    text-decoration: none;
+    color: #1c1c1c;
+}
+/* this is unversial font size of any web page */
+#Mypage {
+    font-size: 2rem;
+    box-shadow: 10px;
+    /* border: 1px solid black; */
+}
+/*  */
+#Mypage:hover {
+
+}
+
