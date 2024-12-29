@@ -1,24 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <link rel="icon" href="">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="index.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>DevCook</title>
+    <link rel="stylesheet" href="/index.css">
 
-    <title>DecCook</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
 </head>
-
 <body>
-    <header> <a  href="/index.html"><h1>rangrover</h1></a>
-           <a href=""></a>
-           <a id="Mypage" href="http://www.instagram.com/tannuzxz/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-
-           <div></div>
-    
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>StudyHub</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
     </header>
-</body>
 
+    <section id="home" class="hero-section">
+        <div class="hero-content">
+            <h2>Welcome to StudyHub</h2>
+            <p>Your one-stop solution for coding study materials</p>
+            <a href="#courses" class="btn">Explore Courses</a>
+        </div>
+    </section>
+
+    <section id="about" class="about-section">
+        <h2>About Us</h2>
+        <p>StudyHub is dedicated to providing the best study materials for coders. Whether you are a beginner or an experienced developer, we have something for everyone.</p>
+    </section>
+
+    <section id="courses" class="courses-section">
+        <h2>Our Courses</h2>
+        <div class="course-list">
+            <div class="course-item">
+                <h3>HTML & CSS</h3>
+                <p>Learn the basics of web development with our HTML & CSS course.</p>
+            </div>
+            <div class="course-item">
+                <h3>JavaScript</h3>
+                <p>Master JavaScript and enhance your web development skills.</p>
+            </div>
+            <div class="course-item">
+                <h3>Python</h3>
+                <p>Get started with Python programming and build powerful applications.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact-section">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, feel free to reach out to us.</p>
+        <form action="#" method="post">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" placeholder="Your Message" required></textarea>
+            <button type="submit" class="btn">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 StudyHub. All rights reserved.</p>
+    </footer>
+</body>
 </html>
