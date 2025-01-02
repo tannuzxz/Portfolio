@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("anime.jpg");
+  background-image: url("Assets/images/background.jpg");
   background-size:contain;
   background-repeat: no-repeat;
   background-position: center ;
@@ -24,19 +24,49 @@ body {
 
 .links {
   text-decoration: none;
-  margin-right: 3rem;
+  margin-right: 2rem;
   background-color: transparent;
 }
 
-/* this is only for title and slogan */
-
 #title {
-  margin: 0.3rem;
-  margin-left: 1rem;
+  margin: 0.5rem;
+  margin-left: 2rem;
 }
 
-#main_image {
-  width: 70rem;
-  position: relative;
-  right: 10rem;
+.icon {
+  size: 6rem;
+}
+
+i {
+  color: rgb(173, 5, 5);
+  font-size: 2rem;
+  margin-top: 5rem;
+  margin-left: 1REM;
+}
+
+#info {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 5rem;
+  justify-content: center;
+  
+}
+
+i:hover {
+  color: gray;
+}
+
+#query {
+  position: absolute;
+  bottom: 0.5rem;
+  font-family:cursive;
+  color: rgb(173, 5, 5);
+  font-size: 1rem;
+}
+
+#mail {
+  color: whitesmoke;
 }
