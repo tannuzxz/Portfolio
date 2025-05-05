@@ -21,3 +21,15 @@ This website is built with the following technologies:
 
 The repository is organized as follows:
 
+
+## 🌐 Live Demo
+
+You can check out the live version of this website here: [Insert Live URL]
+
+## 📝 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tannuzxz/Portfolio.git
+
+Let me know if you'd like further customization! 😊
