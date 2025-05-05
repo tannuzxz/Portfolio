@@ -31,5 +31,15 @@ You can check out the live version of this website here: [https://tannuzxz.githu
 1. Clone the repository:
    ```bash
    git clone https://github.com/tannuzxz/Portfolio.git
+   ## 📥 Download and Setup with GitHub CLI
+
+2.You can quickly clone this repository using the GitHub CLI. Ensure you have the CLI installed on your system. If not, you can download it from [GitHub CLI Documentation](https://cli.github.com/).
+
+### Clone the Repository
+
+To clone this repository, run the following command:
+
+```bash
+gh repo clone tannuzxz/Portfolio
 
 Let me know if you'd like further customization! 😊
