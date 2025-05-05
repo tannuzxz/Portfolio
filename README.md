@@ -33,9 +33,9 @@ You can check out the live version of this website here: [https://tannuzxz.githu
    git clone https://github.com/tannuzxz/Portfolio.git
    ## 📥 Download and Setup with GitHub CLI
 
-2. ### Clone the Repository).
+2. ### Clone the Repository
 
-You can quickly clone this repository using the GitHub CLI. Ensure you have the CLI installed on your system. If not, you can download it from [GitHub CLI Documentation](https://cli.github.com/
+You can quickly clone this repository using the GitHub CLI. Ensure you have the CLI installed on your system. If not, you can download it from [GitHub CLI Documentation](https://cli.github.com/).
 
 To clone this repository, run the following command:
 
