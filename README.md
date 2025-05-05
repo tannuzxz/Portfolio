@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my portfolio website repository! 🌟 This project showcases my work, skills, and experiences as a [your profession, e.g., "web developer", "designer", etc.].
+Welcome to my portfolio website repository! 🌟 This project showcases my work, skills, and experiences as a Full Stack Developer.
 
 ## 🛠️ Technologies Used
 
