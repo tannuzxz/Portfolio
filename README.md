@@ -1,7 +1,6 @@
 # Portfolio Website
 
-Welcome to my portfolio website repository! 🌟 This project showcases my work, skills, and experiences as a [your profession, e.g., "web developer", "designer", etc.].
-
+Welcome to my portfolio website repository! 🌟 This project showcases my work, skills, and experiences as a developer.
 ## 🛠️ Technologies Used
 
 This website is built with the following technologies:
@@ -31,5 +30,6 @@ You can check out the live version of this website here: [https://tannuzxz.githu
 1. Clone the repository:
    ```bash
    git clone https://github.com/tannuzxz/Portfolio.git
+
 
 
